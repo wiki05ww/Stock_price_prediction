@@ -75,7 +75,7 @@ wyniki mają charakter edukacyjny, nie inwestycyjny.
 
 **Jak uruchomić**
 Sklonuj repozytorium:
-git clone https://github.com/twoje-repozytorium.git
+git clone https://github.com/Stock_price_prediction.git
 
 Zainstaluj wymagane biblioteki:
 pip install pandas numpy matplotlib prophet scikit-learn
